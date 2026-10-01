@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Delis Roa 👋
 
-<!--
-**delisroa/delisroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Commercial & Sales Analyst with 10+ years of experience in sales, commercial management, retail and trade marketing, currently focused on Data Analytics and Business Intelligence.
 
-Here are some ideas to get you started:
+I'm a **Data Scientist with Python**, combining business experience with data analysis to support better commercial decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 Focus
+
+- Commercial & Sales Analytics
+- Data Analytics
+- Business Intelligence
+- KPIs, Pricing & Profitability
+- Data-driven decision making
+
+## 🛠️ Tools
+
+- SQL
+- Python
+- Power BI
+- Tableau
+- Excel
+- PostgreSQL
+- MySQL
+- Pandas
+- NumPy
+
+## 📊 Currently building
+
+A portfolio focused on real business problems, sales analytics, BI dashboards and data analysis projects.
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/delis-roa)
